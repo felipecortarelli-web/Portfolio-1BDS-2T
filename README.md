@@ -1,1 +1,2 @@
-# Portfolio-1BDS-2T
+# Portifolio-1BDS-2T
+Projeto desenvolvido no Cólegio Estadual Dr Gastão Vidigal, no ano de 2026, na  turma do 1BDS. A intenção desse potifólio é explicar a utilidade e as funções dos códigos em HRML, CSS e JS. As imagens, áudios e vídeos aqui utilizados, foram retirados ....
